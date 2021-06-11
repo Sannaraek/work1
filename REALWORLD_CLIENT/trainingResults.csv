@@ -1,0 +1,11 @@
+Results on model,
+"
+ Accuracy:",0.6616
+"
+ BestAELoss:",0.4233
+"
+ weighted f1:",0.6532
+"
+ micro f1:",0.6616
+"
+ macro f1:",0.6051
